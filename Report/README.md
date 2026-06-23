@@ -3,7 +3,7 @@
 ## Vulnerability Assessment Report
 
 ### Prepared By
-Prashant Khare
+Kunal Bhalerao Baviskar
 
 ---
 
